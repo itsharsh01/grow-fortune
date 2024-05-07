@@ -6,7 +6,7 @@ const DetailPage = () => {
     return (
         <div>
             hello detail page
-            <button onClick={() => navigate("/")}> navigate</button>
+            <button onClick={() => navigate("/")}> navigate to landing page </button>
         </div>
     )
 }
