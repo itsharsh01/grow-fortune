@@ -6,7 +6,7 @@ const HomePage = () => {
     return (
         <div>
             hello hom epage
-            <button onClick={() => navigate("/detail")}> navigate</button>
+            <button onClick={() => navigate("/detail")}> navigate to detail</button>
         </div>
     )
 }
